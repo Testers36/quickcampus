@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93a46dd9-e50a-45f1-9336-937456abb650" name="Changes" comment="git remote remove origin" />
+    <list default="true" id="93a46dd9-e50a-45f1-9336-937456abb650" name="Changes" comment="git remote add origin https://github.com/Testers36/quickcampus.git" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +70,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745286081970</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="git remote add origin https://github.com/Testers36/quickcampus.git">
+      <option name="closed" value="true" />
+      <created>1745286453064</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745286453064</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,7 +86,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -87,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git remote add origin https://github.com/Testers36/quickcampus" />
     <MESSAGE value="git remote remove origin" />
-    <option name="LAST_COMMIT_MESSAGE" value="git remote remove origin" />
+    <MESSAGE value="git remote add origin https://github.com/Testers36/quickcampus.git" />
+    <option name="LAST_COMMIT_MESSAGE" value="git remote add origin https://github.com/Testers36/quickcampus.git" />
   </component>
 </project>
